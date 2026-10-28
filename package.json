@@ -1,0 +1,14 @@
+{
+  "name": "rk-bulkfile-generator",
+  "version": "1.0.0",
+  "description": "RK Bulkfile Generator für Amazon Ads – mit Login",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Ramis Kaharmanov"
+}
